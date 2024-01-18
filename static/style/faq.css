@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css?family=Varela+Round");
+html{
+    font-family: "Varela Round", sans-serif;
+}
+body{
+    background-image: url('/static/image/b2.jpg');
+    background-color: rgba(255, 255, 255, 0.623);
+    background-blend-mode:lighten;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.faq{
+    padding-left: 2em;
+    padding-right: 2em;
+}
+.faq h3{
+    color: #ff6185;
+}
+.faq h1{
+    color: #ff6185;
+}
+.faq p{
+    color: rgb(36, 36, 36);
+}

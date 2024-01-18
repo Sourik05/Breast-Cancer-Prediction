@@ -1,0 +1,11 @@
+body{
+    color: #ff6185;
+    font-family: "Varela Round", sans-serif;
+    padding-top: 18em;
+    background-image: url('/static/image/b3.jpg');
+    background-color: rgba(255, 255, 255, 0.477);
+    background-blend-mode:lighten;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
